@@ -3,10 +3,9 @@ package main;
 public class Area {
 
 	public static void main(String[] args) {
-		int length=10;
-		int width=20;
+		
 		Area a1 = new Area();
-		a1.calculateArea(length, width);
+		a1.calculateArea(20, 10);
 	}
 
 
